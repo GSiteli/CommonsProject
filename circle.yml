@@ -27,5 +27,4 @@ checkout:
 
 dependencies:
   override:
-    - bundle install:
-        timeout: 600
+    - timeout: 600
